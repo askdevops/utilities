@@ -2,8 +2,8 @@
 ## API to translate Kubernetes service names to IPs and serve them to Lambda functions
 
 ## **Prerequisites**:
-* ### **Language**: Python 2.7.*
-* ### **Predefined variables**: KUBEDNS_IP, DNSLOOKUP_API_KEY
+* #### **Language**: Python 2.7.*
+* #### **Predefined variables**: KUBEDNS_IP, DNSLOOKUP_API_KEY
 ### **Get kubedns IP**
 SSH into **devkube-bastion** instance and run:
 ```
